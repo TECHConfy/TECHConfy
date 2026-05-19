@@ -32,10 +32,6 @@ Web Development • AI Tooling • User-Centric Design
 | **Cinequest**                  | Modern movie discovery and tracking web app. | HTML, CSS, JavaScript               | [Live Demo](https://cinequest-movieapp.vercel.app/) • [Repo](https://github.com/TECHConfy/cinequest) |
 | **Academic Burnout Detection System (ABDS)** | Tool designed to detect and help manage academic burnout using MBI-SS questionnaire. | PHP, Laravel, MySQL, Chart.js • Live: Local (XAMPP) |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TECHConfy&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TECHConfy&layout=compact)
-
 ---
 
 ### 📫 Let's Connect
