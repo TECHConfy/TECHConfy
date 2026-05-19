@@ -29,7 +29,7 @@ Web Development • AI Tooling • User-Centric Design
 |------------------|--------------------------------------------------|-----------------------------|-------|
 | **Academia360**                | AI-powered academic assistant that helps students with research topic suggestion, strength analysis, proposal generation, and defense preparation flashcards. | HTML, CSS, JavaScript, OpenRouter API | [Live Demo](https://euphonious-tartufo-4c7513.netlify.app/) • [Repo](https://github.com/TECHConfy/Academia-360) |
 | **Legible**                    | Plain language explainer. Paste any text or upload a PDF and get clear, simple explanations (supports multiple modes: Explain, Summarize, My Rights, Risks, ELI5). | HTML, CSS, JavaScript, Claude (Anthropic) API | [Live Demo](https://legible-gamma.vercel.app/) • [Repo](https://github.com/TECHConfy/legible) |
-| **Cinequest**                  | Modern movie discovery and tracking web app. | HTML, CSS, JavaScript               | [Live Demo](https://cinequest-movieapp.vercel.app/) • [Repo]https://github.com/TECHConfy/cinequest |
+| **Cinequest**                  | Modern movie discovery and tracking web app. | HTML, CSS, JavaScript               | [Live Demo](https://cinequest-movieapp.vercel.app/) • [Repo] https://github.com/TECHConfy/cinequest |
 | **Academic Burnout Detection System (ABDS)** | Tool designed to detect and help manage academic burnout using MBI-SS questionnaire. | PHP, Laravel, MySQL, Chart.js • Live: Local (XAMPP) |
 
 ---
